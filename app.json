@@ -6,7 +6,7 @@
     "stack": "container",
     "success_url": "/",
     "env": {
-        "SESSION_ID": {
+        "XSTRO_41_59_42": {
             "description": "SESSION HERE",
             "required": true
         },
