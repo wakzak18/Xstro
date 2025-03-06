@@ -4,7 +4,7 @@ import { createServer } from "http";
 
 dotenv.config();
 
-const SESSION = process.env.SESSION ? process.env.SESSION : "XSTRO_97_30_78";
+const SESSION = process.env.SESSION ? process.env.SESSION : "XSTRO_53_73_52";
 const DB_URI = process.env.DB_URI ? process.env.DB_URI : undefined;
 const PORT = 8000;
 
