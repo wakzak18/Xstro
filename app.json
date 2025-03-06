@@ -7,7 +7,7 @@
     "success_url": "/",
     "env": {
         "SESSION_ID": {
-            "description": "SESSION HERE",
+            "description": "XSTRO_18_06_94",
             "required": true
         },
         "BOT_INFO": {
